@@ -23,15 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 64.92%; height: 0;">
   <iframe src="https://www.loom.com/embed/c4d2257bb95048c4bfea49d91e18948d?sid=9c4a86fe-002b-491e-bc6b-ceff131a5bb7" 
-          frameborder="0" 
-          webkitallowfullscreen 
-          mozallowfullscreen 
-          allowfullscreen 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+          
   </iframe>
-</div>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with loom
 <!-- Recommended tools:
